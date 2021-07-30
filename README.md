@@ -1,1 +1,1 @@
-# internship_assignment
+# internship_demonstration
